@@ -5,19 +5,19 @@
 >### Resumen:
 >Con una sólida experiencia en desarrollo web tanto en el frontend como en el backend, este desarrollador Full Stack se ha destacado en la implementación de soluciones robustas y seguras, con un fuerte enfoque en la experiencia del usuario (UI/UX). Su capacidad para integrar diversas tecnologías y su enfoque en la seguridad y eficiencia lo convierten en una adición valiosa para cualquier equipo de desarrollo.  
 >### Habilidades Clave: ✨
->> ### Autenticación y Seguridad:  
+>> ### Autenticación y Seguridad: :police_car:
 >> Implementación de autenticación utilizando JSON Web Tokens (JWT) y Firebase Auth.
 >> Integración con servidores Active Directory (AD) para autenticación y generación de tokens.
 >> Protección de rutas en aplicaciones frontend y backend.
->> ### Desarrollo Backend:
+>> ### Desarrollo Backend: :keyboard:
 >> Modelado de datos y gestión de bases de datos utilizando Prisma ORM.
 >> Diseño y desarrollo de APIs RESTful con Node.js y Express.
 >> Gestión y monitoreo de aplicaciones en producción con PM2.
->> ### Desarrollo Frontend:  
+>> ### Desarrollo Frontend: :computer:  
 >> Creación de interfaces de usuario modernas y responsivas con React y Material-UI.  
 >> Implementación de formularios con validaciones avanzadas para una mejor experiencia del usuario.
 >> Flujo de trabajo completo enfocado en UI/UX, garantizando una experiencia intuitiva y atractiva.
->> ### Gestión de Proyectos:
+>> ### Gestión de Proyectos: :briefcase:
 >> Desarrollo de modelos tanto para el frontend como para el backend, asegurando coherencia y eficiencia.
 >> Integración de flujos de trabajo completos, desde la autenticación hasta la protección de rutas y manejo de sesiones.
 > ## Logros Destacados: 🔭
