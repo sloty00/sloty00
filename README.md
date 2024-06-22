@@ -53,16 +53,16 @@
 
 - **Containers**:
   
-    ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
-    ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <br>
 
 - **Softwares and Tools**:
   
-    ![GitHub](https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white)
-    ![Bitbuckets](https://img.shields.io/badge/Bitbuckets-blue?logo=bitbuckets&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)
+    ![Bitbuckets](https://img.shields.io/badge/Bitbuckets-blue?style=for-the-badge&logo=bitbuckets&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=white)
     ![Veeam](https://img.shields.io/badge/Veeam-blue?style=for-the-badge&logo=veeam&logoColor=white)}
   
 
