@@ -59,7 +59,7 @@
 
 - **Softwares and Tools**:
 - 
-    ![GitHub](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white)
 
 <br>
 
