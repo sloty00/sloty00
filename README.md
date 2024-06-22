@@ -63,6 +63,7 @@
     ![GitHub](https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white)
     ![Bitbuckets](https://img.shields.io/badge/Bitbuckets-blue?logo=bitbuckets&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white)
+    ![Veeam](https://img.shields.io/badge/Veeam-blue?logo=veeam&logoColor=white)
   
 
 <br>
