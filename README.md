@@ -36,7 +36,7 @@
 <br>   
     
 - **Front-End Development**:
-- 
+ 
    ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=white)
 
@@ -63,14 +63,14 @@
     ![GitHub](https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white)
     ![Bitbuckets](https://img.shields.io/badge/Bitbuckets-blue?logo=bitbuckets&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white)
-    ![Veeam](https://img.shields.io/badge/Veeam-blue?logo=veeam&logoColor=white)
+    ![Veeam](https://img.shields.io/badge/Veeam-blue?logo=veeam&logoColor=white)}
   
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Terminal](https://img.shields.io/badge/Terminal-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
