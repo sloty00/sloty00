@@ -39,6 +39,7 @@
  
    ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+   ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
 
 <br>
 
