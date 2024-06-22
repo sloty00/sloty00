@@ -64,6 +64,7 @@
     ![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)
     ![Mercurial](https://img.shields.io/badge/Mercurial-blue?style=for-the-badge&logo=mercurial&logoColor=white)
     ![Bitbuckets](https://img.shields.io/badge/Bitbuckets-blue?style=for-the-badge&logo=bitbuckets&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=white)
     ![Veeam](https://img.shields.io/badge/Veeam-blue?style=for-the-badge&logo=veeam&logoColor=white)
     ![VMWare](https://img.shields.io/badge/VMWare-blue?style=for-the-badge&logo=vmware&logoColor=white)
