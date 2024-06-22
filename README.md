@@ -63,7 +63,7 @@
     ![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)
     ![Bitbuckets](https://img.shields.io/badge/Bitbuckets-blue?style=for-the-badge&logo=bitbuckets&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=white)
-    ![Veeam](https://img.shields.io/badge/Veeam-blue?style=for-the-badge&logo=veeam&logoColor=white)}
+    ![Veeam](https://img.shields.io/badge/Veeam-blue?style=for-the-badge&logo=veeam&logoColor=white)
   
 
 <br>
@@ -71,6 +71,7 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Latex](https://img.shields.io/badge/Latex-blue?style=for-the-badge&logo=latex&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
