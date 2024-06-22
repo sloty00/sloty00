@@ -65,6 +65,8 @@
     ![Bitbuckets](https://img.shields.io/badge/Bitbuckets-blue?style=for-the-badge&logo=bitbuckets&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=white)
     ![Veeam](https://img.shields.io/badge/Veeam-blue?style=for-the-badge&logo=veeam&logoColor=white)
+    ![VMWare](https://img.shields.io/badge/VMWare-blue?style=for-the-badge&logo=vmware&logoColor=white)
+  
   
 
 <br>
