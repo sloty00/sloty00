@@ -87,13 +87,13 @@
 
 - **Softwares and Tools**:
   
-    ![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)
-    ![Mercurial](https://img.shields.io/badge/Mercurial-blue?style=for-the-badge&logo=mercurial&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+    ![Mercurial](https://img.shields.io/badge/Mercurial-gray?style=for-the-badge&logo=mercurial&logoColor=white)
     ![Bitbuckets](https://img.shields.io/badge/Bitbuckets-blue?style=for-the-badge&logo=bitbuckets&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=white)
-    ![Veeam](https://img.shields.io/badge/Veeam-blue?style=for-the-badge&logo=veeam&logoColor=white)
-    ![VMWare](https://img.shields.io/badge/VMWare-blue?style=for-the-badge&logo=vmware&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+    ![Veeam](https://img.shields.io/badge/Veeam-green?style=for-the-badge&logo=veeam&logoColor=white)
+    ![VMWare](https://img.shields.io/badge/VMWare-green?style=for-the-badge&logo=vmware&logoColor=white)
   
   
 
@@ -101,8 +101,8 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Latex](https://img.shields.io/badge/Latex-blue?style=for-the-badge&logo=latex&logoColor=white)
+    ![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Latex](https://img.shields.io/badge/Latex-green?style=for-the-badge&logo=latex&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
