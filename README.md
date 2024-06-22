@@ -56,8 +56,8 @@
 
 - **Languages**:
     
-    ![Node.js](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Bash](https://img.shields.io/badge/Bash-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>   
     
