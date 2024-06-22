@@ -30,16 +30,14 @@
 
 - **Languages**:
     
-    ![Node.js](https://img.shields.io/badge/nodedotjs.svg?logo=node.js&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/nodedot?logo=node.js&logoColor=white)
+    ![Made with Bash](https://img.shields.io/badge/Bash->=3-blue?logo=gnu-bash&logoColor=white)
 
 <br>   
     
 - **Front-End Development**:
 - 
    ![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
@@ -47,7 +45,15 @@
 
     [![Made with PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/ "Go to PostgresSQL homepage")
     [![Made with MySQL](https://img.shields.io/badge/MySQL->=5.7-blue?logo=mysql&logoColor=white)](https://www.mysql.com/ "Go to MySQL homepage")
+    [![Made with SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html "Go to SQLite homepage")
     
+    
+<br>
+
+- **Containers**:
+  
+    [![Made with Docker](https://img.shields.io/badge/Made_with-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/ "Go to Docker homepage")
+
 <br>
 
 - **Softwares and Tools**:
