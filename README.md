@@ -30,15 +30,15 @@
 
 - **Languages**:
     
-    ![Node.js](https://img.shields.io/badge/Node.js-blue?logo=node.js&logoColor=white)
-    ![Bash](https://img.shields.io/badge/Bash-blue?logo=gnu-bash&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Bash](https://img.shields.io/badge/Bash-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>   
     
 - **Front-End Development**:
  
-   ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=white)
+   ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
 
 <br>
 
