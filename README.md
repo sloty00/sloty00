@@ -53,13 +53,13 @@
 
 - **Containers**:
   
-    ![Docker](https://img.shields.io/badge/Made_with-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/ "Go to Docker homepage")
+    ![Docker](https://img.shields.io/badge/Made_with-Docker-blue?logo=docker&logoColor=white)
 
 <br>
 
 - **Softwares and Tools**:
 - 
-    ![Git](https://img.shields.io/badge/git?logo=git&logoColor=white)
+    ![Git](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
