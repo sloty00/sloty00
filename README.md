@@ -30,7 +30,7 @@
 
 - **Languages**:
     
-    [![Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org "Go to Node.js homepage")
+    ![Node.js](https://img.shields.io/badge/nodedotjs.svg?logo=node.js&logoColor=white)
 
 <br>   
     
