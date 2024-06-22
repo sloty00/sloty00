@@ -30,34 +30,36 @@
 
 - **Languages**:
     
-    ![Node.js](https://img.shields.io/badge/nodedot?logo=node.js&logoColor=white)
-    ![Made with Bash](https://img.shields.io/badge/Bash->=3-blue?logo=gnu-bash&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)
+    ![Bash](https://img.shields.io/badge/Bash->=3-blue?logo=gnu-bash&logoColor=white)
 
 <br>   
     
 - **Front-End Development**:
 - 
    ![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/Made_with-JavaScript-blue?logo=javascript&logoColor=white)
 
 <br>
 
 - **Database**:
 
-    [![Made with PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/ "Go to PostgresSQL homepage")
-    [![Made with MySQL](https://img.shields.io/badge/MySQL->=5.7-blue?logo=mysql&logoColor=white)](https://www.mysql.com/ "Go to MySQL homepage")
-    [![Made with SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html "Go to SQLite homepage")
+    [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/ "Go to PostgresSQL homepage")
+    [![MySQL](https://img.shields.io/badge/MySQL->=5.7-blue?logo=mysql&logoColor=white)](https://www.mysql.com/ "Go to MySQL homepage")
+    [![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html "Go to SQLite homepage")
     
     
 <br>
 
 - **Containers**:
   
-    [![Made with Docker](https://img.shields.io/badge/Made_with-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/ "Go to Docker homepage")
+    ![Docker](https://img.shields.io/badge/Made_with-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/ "Go to Docker homepage")
 
 <br>
 
 - **Softwares and Tools**:
-
+- 
+    ![Git](https://img.shields.io/badge/git?logo=git&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
