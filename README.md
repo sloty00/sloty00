@@ -55,7 +55,8 @@
 <p align="center">
 
 - **Languages**:
-    
+  
+    ![Java SE](https://img.shields.io/badge/Java SE-green?style=for-the-badge&logo=java&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
