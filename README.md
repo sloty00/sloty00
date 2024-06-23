@@ -17,7 +17,7 @@
 
 <br>
 
->Soy un desarrollador de Node.js con experiencia en la creación de aplicaciones web escalables y de alto rendimiento. Mi enfoque en la arquitectura de software me ha permitido diseñar sistemas sólidos y fáciles de mantener. Tengo habilidades en la integración de bases de datos, la implementación de API RESTful y la optimización del rendimiento. Estoy comprometido con la mejora continua y la adopción de las mejores prácticas en desarrollo de software.
+>Soy un desarrollador con 8 años de trayectoria en Java SE y Node.js con experiencia en la creación de aplicaciones web escalables y de alto rendimiento. Mi enfoque en la arquitectura de software me ha permitido diseñar sistemas sólidos y fáciles de mantener. Tengo habilidades en la integración de bases de datos, la implementación de API RESTful y la optimización del rendimiento. Estoy comprometido con la mejora continua y la adopción de las mejores prácticas en desarrollo de software.
 >
 >## Desarrollador Full Stack con Experiencia en Autenticación y Diseño UI/UX Moderno.  
 >### Resumen:
