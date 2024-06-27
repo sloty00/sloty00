@@ -64,8 +64,8 @@
 
 - **Frameworks**:
 
-    ![Express](https://img.shields.io/badge/Backend-Express.js-000000?logo=express&style=flat-square)
-    ![Prisma](https://img.shields.io/badge/ORM-Prisma-2D3748?logo=prisma&style=flat-square)
+    ![Express](https://img.shields.io/badge/Backend-Express?logo=express&logoColor=white)
+    ![Prisma](https://img.shields.io/badge/ORM-Prisma?logo=prisma&logoColor=white)
     
 - **Front-End Development**:
  
