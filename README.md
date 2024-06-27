@@ -61,12 +61,19 @@
     ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>   
+
+- **Frameworks**:
+
+    ![Express](https://img.shields.io/badge/Backend-Express.js-000000?logo=express&style=flat-square)
+    ![Prisma](https://img.shields.io/badge/ORM-Prisma-2D3748?logo=prisma&style=flat-square)
     
 - **Front-End Development**:
  
    ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
+   ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&style=flat-square)
+   ![Material-UI](https://img.shields.io/badge/Frontend-Material--UI-0081CB?logo=material-ui&style=flat-square)
 
 <br>
 
