@@ -72,7 +72,7 @@
    ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
-   ![Framer Motion](https://img.shields.io/badge/Framer%20Motion?style=for-the-badgelogo=framer&logoColor=white)
+   ![Framer Motion](https://img.shields.io/badge/Framer%20Motion?style=for-the-badge&logo=framer&logoColor=white)
    ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&style=flat-square)
    ![Material-UI](https://img.shields.io/badge/Frontend-Material?style=for-the-badge&logo=material-ui&logoColor=white)
 
