@@ -73,7 +73,7 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
    ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-   ![Material-UI](https://img.shields.io/badge/Frontend-Material?style=for-the-badge&logo=material-ui&logoColor=white)
+   ![Material-UI](https://img.shields.io/badge/FrontendMaterial?style=for-the-badge&logo=material-ui&logoColor=white)
 
 <br>
 
