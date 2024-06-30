@@ -186,6 +186,6 @@
 
 <div align='center'>
 
-## <b>Gracias por pasar...✨</b>
+## <b>Thanks for stopping by...✨</b>
 
 </div>
