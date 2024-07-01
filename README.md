@@ -159,7 +159,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sloty00&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://github-profile-trophy.vercel.app/?username=sloty00&title=AncientUser&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sloty00&title=Stars,Followers&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
