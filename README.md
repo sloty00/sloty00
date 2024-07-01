@@ -43,8 +43,9 @@
 
 <br>
 <div align="center">
-
-  <a href="">![](https://github-profile-trophy.vercel.app/?username=sloty00&title=Experience&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)</a>
+	
+  ![](https://github-profile-trophy.vercel.app/?username=sloty00&title=Experience&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
+  
 </div>
 <br>
 
