@@ -64,10 +64,10 @@
 
 <br>  
 
-- **Frameworks**:
+- **Hoating / SaaS**:
 
-    ![Express](https://img.shields.io/badge/Backend-Express?style=for-the-badge&logo=express&logoColor=white)
-    ![Prisma](https://img.shields.io/badge/ORM-Prisma?style=for-the-badge&logo=prisma&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+    ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
     
 - **Front-End Development**:
  
