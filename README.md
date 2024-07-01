@@ -88,7 +88,6 @@
     ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white)
     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
     ![shadcn](https://img.shields.io/badge/shadcn/ui-000000.svg?style=plastic&logo=shadcn/ui&logoColor=white)
-  https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white
 
 <br>
 
