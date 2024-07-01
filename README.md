@@ -111,17 +111,12 @@
 
 <br>
 
-- **Softwares and Tools**:
+- **CI/CD VCS**:
   
-    ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-    ![Mercurial](https://img.shields.io/badge/Mercurial-gray?style=for-the-badge&logo=mercurial&logoColor=white)
-    ![Bitbuckets](https://img.shields.io/badge/Bitbuckets-blue?style=for-the-badge&logo=bitbuckets&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-    ![Veeam](https://img.shields.io/badge/Veeam-green?style=for-the-badge&logo=veeam&logoColor=white)
-    ![VMWare](https://img.shields.io/badge/VMWare-green?style=for-the-badge&logo=vmware&logoColor=white)
-  
-  
+    ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=plastic&logo=subversion&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+    ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
+    ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=plastic&logo=mercurial&logoColor=white)
 
 <br>
 
