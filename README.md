@@ -157,9 +157,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sloty00&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloty00&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=sloty00&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
-
-![](https://github-profile-trophy.vercel.app/?username=sloty00&title=LongTimeAccount&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sloty00&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=7)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
