@@ -64,7 +64,7 @@
 
 <br>  
 
-- **Hoating / SaaS**:
+- **Hosting / SaaS**:
 
     ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
     ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
