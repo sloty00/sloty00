@@ -103,7 +103,6 @@
     ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
     ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=plastic&logo=Veeam&logoColor=ffcd34)
     ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=plastic&logo=SUSE&logoColor=ffcd34)
-  https://img.shields.io/badge/SUSE-0C322C.svg?style=for-the-badge&logo=SUSE&logoColor=white
   
 <br>
 
