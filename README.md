@@ -11,7 +11,7 @@
 
 
 	
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** ![](https://github-profile-trophy.vercel.app/?username=sloty00&title=Experience&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -41,12 +41,7 @@
 >> **UI/UX Superior:** Creación de interfaces de usuario modernas, con formularios y validaciones intuitivas y atractivas.  
 >> **Integración con AD:** Conexión y uso de credenciales de servidores AD para generación y manejo de tokens de autenticación.
 
-<br>
-<div align="center">
-	
-  ![](https://github-profile-trophy.vercel.app/?username=sloty00&title=Experience&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
-  
-</div>
+<br>	
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
