@@ -178,7 +178,7 @@
 </div>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sloty00)](https://github.com/sloty00/github-readme-stats)
 
 <div align='center'>
 
