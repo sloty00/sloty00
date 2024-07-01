@@ -22,6 +22,7 @@
 <br>
 <div align='center'>
 	https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+	![]([https://github-profile-trophy.vercel.app/?username=sloty00](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
 </div>
 <br>
 >## Habilidades Clave: ✨
