@@ -52,7 +52,7 @@
 <p align="center">
 
 - **Languages**:
-  
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
     ![Java SE](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white)
