@@ -41,11 +41,11 @@
 >> **UI/UX Superior:** Creación de interfaces de usuario modernas, con formularios y validaciones intuitivas y atractivas.  
 >> **Integración con AD:** Conexión y uso de credenciales de servidores AD para generación y manejo de tokens de autenticación.
 
-<br><br>
-
+<br>
+<h1 align="center">
 ![](https://github-profile-trophy.vercel.app/?username=sloty00&title=Experience&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
-
-<br><br>
+</h1>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
