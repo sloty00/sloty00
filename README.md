@@ -42,9 +42,10 @@
 >> **Integración con AD:** Conexión y uso de credenciales de servidores AD para generación y manejo de tokens de autenticación.
 
 <br>
-<h1 align="center">
-![](https://github-profile-trophy.vercel.app/?username=sloty00&title=Experience&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
-</h1>
+<div align="center">
+
+  <a href="">![](https://github-profile-trophy.vercel.app/?username=sloty00&title=Experience&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)</a>
+</div>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
