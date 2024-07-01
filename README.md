@@ -60,6 +60,7 @@
     ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+    ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 
 <br>  
@@ -115,6 +116,7 @@
   
     ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=plastic&logo=subversion&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
     ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
     ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=plastic&logo=mercurial&logoColor=white)
 
@@ -122,9 +124,15 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Latex](https://img.shields.io/badge/Latex-green?style=for-the-badge&logo=latex&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
+    ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+    ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white)
+    ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)  
 
 
 </p>
