@@ -101,6 +101,8 @@
     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
     ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
     ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+    ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=plastic&logo=Veeam&logoColor=ffcd34)
+    https://img.shields.io/badge/Veeam-00B336.svg?style=plastic&logo=Veeam&logoColor=white
   
 <br>
 
