@@ -149,29 +149,8 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/jose-vargas-oyarzun-181246143/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  JoseVargasOyarzun-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://x.com/Jcoyarzun81" target="_blank">
-<img src="https://img.shields.io/badge/X:  jcoyarzun81-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:jvoyarzun81@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  jvoyarzun81@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vartodesarrollo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-vargas-oyarzun-181246143) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Jcoyarzun81) 
 </div>
 
 <br>
