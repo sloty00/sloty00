@@ -159,6 +159,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sloty00&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
 
+![](https://github-profile-trophy.vercel.app/?username=sloty00&title=AncientUser&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ![](https://github-contributor-stats.vercel.app/api?username=sloty00&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
@@ -178,7 +180,6 @@
 </div>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sloty00)](https://github.com/sloty00/github-readme-stats)
 
 <div align='center'>
 
