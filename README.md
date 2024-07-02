@@ -12,31 +12,35 @@
 
 <br>
 
->Soy un desarrollador con 8 años de trayectoria en Java SE y Node.js con experiencia en la creación de aplicaciones web escalables y de alto rendimiento. Mi enfoque en la arquitectura de software me ha permitido diseñar sistemas sólidos y fáciles de mantener. Tengo habilidades en la integración de bases de datos, la implementación de API RESTful y la optimización del rendimiento. Estoy comprometido con la mejora continua y la adopción de las mejores prácticas en desarrollo de software.
- 
->## Habilidades Clave: ✨
->> ### Autenticación y Seguridad: :police_car:
->> Implementación de autenticación utilizando JSON Web Tokens (JWT) y Firebase Auth.
->> Integración con servidores Active Directory (AD) para autenticación y generación de tokens.
->> Protección de rutas en aplicaciones frontend y backend.
->> ### Desarrollo Backend: :keyboard:
->> Modelado de datos y gestión de bases de datos utilizando Prisma ORM.
->> Diseño y desarrollo de APIs RESTful con Node.js y Express.
->> Gestión y monitoreo de aplicaciones en producción con PM2.
->> ### Desarrollo Frontend: :computer:  
->> Creación de interfaces de usuario modernas y responsivas con React y Material-UI.  
->> Implementación de formularios con validaciones avanzadas para una mejor experiencia del usuario.
->> Flujo de trabajo completo enfocado en UI/UX, garantizando una experiencia intuitiva y atractiva.
->> ### Gestión de Proyectos: :briefcase:
->> Desarrollo de modelos tanto para el frontend como para el backend, asegurando coherencia y eficiencia.
->> Integración de flujos de trabajo completos, desde la autenticación hasta la protección de rutas y manejo de sesiones.
-> ## Logros Destacados: 🔭
->> **Prisma ORM:** Implementación exitosa de modelado entidad-relación (E/R), optimizando la gestión y consulta de datos.  
->> **Autenticación Avanzada:** Desarrollo de sistemas de login y protección de rutas utilizando JWT y Firebase Auth.  
->> **UI/UX Superior:** Creación de interfaces de usuario modernas, con formularios y validaciones intuitivas y atractivas.  
->> **Integración con AD:** Conexión y uso de credenciales de servidores AD para generación y manejo de tokens de autenticación.
+> Soy un desarrollador con 8 años de trayectoria en Java SE y Node.js, con experiencia en la creación de aplicaciones web escalables y de alto rendimiento. Mi enfoque en la arquitectura de software me ha permitido diseñar sistemas sólidos y fáciles de mantener. Tengo habilidades en la integración de bases de datos, la implementación de API RESTful y la optimización del rendimiento. Estoy comprometido con la mejora continua y la adopción de las mejores prácticas en desarrollo de software.
 
-<br>	
+## Habilidades Clave: ✨
+### Autenticación y Seguridad: :police_car:
+- Implementación de autenticación utilizando JSON Web Tokens (JWT) y Firebase Auth.
+- Integración con servidores Active Directory (AD) para autenticación y generación de tokens.
+- Protección de rutas en aplicaciones frontend y backend.
+
+### Desarrollo Backend: :keyboard:
+- Modelado de datos y gestión de bases de datos utilizando Prisma ORM.
+- Diseño y desarrollo de APIs RESTful con Node.js y Express.
+- Gestión y monitoreo de aplicaciones en producción con PM2.
+
+### Desarrollo Frontend: :computer:
+- Creación de interfaces de usuario modernas y responsivas con React y Material-UI.
+- Implementación de formularios con validaciones avanzadas para una mejor experiencia del usuario.
+- Flujo de trabajo completo enfocado en UI/UX, garantizando una experiencia intuitiva y atractiva.
+
+### Gestión de Proyectos: :briefcase:
+- Desarrollo de modelos tanto para el frontend como para el backend, asegurando coherencia y eficiencia.
+- Integración de flujos de trabajo completos, desde la autenticación hasta la protección de rutas y manejo de sesiones.
+
+## Logros Destacados: 🔭
+- **Prisma ORM:** Implementación exitosa de modelado entidad-relación (E/R), optimizando la gestión y consulta de datos.
+- **Autenticación Avanzada:** Desarrollo de sistemas de login y protección de rutas utilizando JWT y Firebase Auth.
+- **UI/UX Superior:** Creación de interfaces de usuario modernas, con formularios y validaciones intuitivas y atractivas.
+- **Integración con AD:** Conexión y uso de credenciales de servidores AD para generación y manejo de tokens de autenticación.
+
+<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
