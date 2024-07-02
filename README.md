@@ -162,20 +162,17 @@
 
 </p>
 
-<br>
-<br>
-
------
-
-<br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<details><summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sloty00&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sloty00&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true  
+  </p>
+</details>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sloty00&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloty00&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
