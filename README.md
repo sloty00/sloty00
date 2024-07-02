@@ -197,7 +197,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-vargas-oyarzun" target="_blank">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-vargas-oyarzun-181246143) 
+	  
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-vargas-oyarzun-181246143) 
+
   </a>
   <a href="https://github.com/jvargasxyz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -206,10 +208,14 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="mailto:jvoyarzun81@gmail.com" target="_blank">
-    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vartodesarrollo) 
+	  
+   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vartodesarrollo) 
+  
   </a>
   <a href="mailto:jvoyarzun81@gmail.com" target="_blank">
-    [![X.com](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Jcoyarzun81) 
+	  
+   [![X.com](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Jcoyarzun81) 
+    
   </a>
 </p>
 
