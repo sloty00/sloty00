@@ -179,12 +179,18 @@
 
 </div>
 
+<div align='center'>
+
 ![](https://github-profile-trophy.vercel.app/?username=sloty00&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=7)
+
+</div>
+
+<div align='center'>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-
 </div>
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
