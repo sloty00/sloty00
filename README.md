@@ -165,19 +165,19 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br/>
   
-<p align='center'>
+<div align='center'>
 	  
 ![](https://github-readme-stats.vercel.app/api?username=sloty00&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sloty00&theme=codeSTACKr&hide_border=false) 
   
-</p>
+</div>
 
-<p align='center'>
+<div align='center'>
 	
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloty00&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=sloty00&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
-</p>
+</div>
 
 ![](https://github-profile-trophy.vercel.app/?username=sloty00&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=7)
 
