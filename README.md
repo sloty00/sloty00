@@ -170,15 +170,19 @@
 ![](https://github-readme-stats.vercel.app/api?username=sloty00&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sloty00&theme=codeSTACKr&hide_border=false) 
   
-  </p>
+</p>
 
+<p align="center">
+	
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloty00&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=sloty00&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+
+</p>
 
 ![](https://github-profile-trophy.vercel.app/?username=sloty00&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=7)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-![](https://github-contributor-stats.vercel.app/api?username=sloty00&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 </div>
 <br>
