@@ -201,7 +201,7 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vartodesarrollo)
    [![X.com](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jcoyarzun81) 
    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/sloty00)
-   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvoyarzun81@gmail.com)
+   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:jvoyarzun81@gmail.com)
    
   </a>
 </p>
