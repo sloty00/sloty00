@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jose+Vargas+Oyarzun..&hearts;++;React+Front-End+Developer,;Nodejs+Back-End+Developer,;FullStack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+
 ![image](https://github.com/sloty00/sloty00/assets/22121541/7f60053a-5df8-4868-8c01-254f0013c0dd)
 
 <br>
