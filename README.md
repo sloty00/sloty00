@@ -4,8 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jose+Vargas+Oyarzun..&hearts;++;React+Front-End+Developer,;Nodejs+Back-End+Developer,;FullStack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-![image](https://github.com/sloty00/sloty00/assets/22121541/7f60053a-5df8-4868-8c01-254f0013c0dd)
-
 <br>
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
@@ -167,6 +165,10 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
 <br/>
   
 <div align='center'>
+
+![image](https://github.com/sloty00/sloty00/assets/22121541/7f60053a-5df8-4868-8c01-254f0013c0dd)
+
+<br>
 	  
 ![](https://github-readme-stats.vercel.app/api?username=sloty00&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sloty00&theme=codeSTACKr&hide_border=false)
