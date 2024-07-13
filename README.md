@@ -209,6 +209,46 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
    
   </a>
 </p>
+## Certificaciones y Cursos
+
+### Certificaciones
+
+| Curso | Plataforma | Fecha de Expedición | ID de la Credencial |
+|-------|------------|---------------------|---------------------|
+| [Autocad 2023 Master Class](https://www.udemy.com/certificate/UC-a6a02862-1c13-4320-a1fa-6b25aa806307) | Udemy | jun. 2024 | UC-a6a02862-1c13-4320-a1fa-6b25aa806307 |
+| [Become HTML Hero](https://www.udemy.com/certificate/UC-13136a26-eb7a-4c8d-9c4f-e2ee36093149) | Udemy | jun. 2024 | UC-13136a26-eb7a-4c8d-9c4f-e2ee36093149 |
+| [Bootstrap 5 Course](https://www.udemy.com/certificate/UC-a35aefd5-793f-4b24-b92f-8dd916b04b70) | Udemy | jun. 2024 | UC-a35aefd5-793f-4b24-b92f-8dd916b04b70 |
+| [Build a Simple Calculator in React](https://www.udemy.com/certificate/UC-1c04214d-55ab-463a-92f7-9e52e4701982) | Udemy | jun. 2024 | UC-1c04214d-55ab-463a-92f7-9e52e4701982 |
+| [Complete Javascript, JQuery and React Bootcamp](https://www.udemy.com/certificate/UC-fc424654-d85a-43da-b63b-3f4d30d0f208) | Udemy | jun. 2024 | UC-fc424654-d85a-43da-b63b-3f4d30d0f208 |
+| [Foundations of Web Development](https://www.udemy.com/certificate/UC-4fc56561-47a9-4b31-863b-f02c52bdcb35) | Udemy | jun. 2024 | UC-4fc56561-47a9-4b31-863b-f02c52bdcb35 |
+| [HTML, JavaScript, & Bootstrap - Certification Course](https://www.udemy.com/certificate/UC-f3c63da9-9250-4ad7-ae7e-fb1ed433be41) | Udemy | jun. 2024 | UC-f3c63da9-9250-4ad7-ae7e-fb1ed433be41 |
+| [HTML5 & CSS3 Complete Course](https://www.udemy.com/certificate/UC-a970341d-bd90-4d0c-808f-6af61c354a6e) | Udemy | jun. 2024 | UC-a970341d-bd90-4d0c-808f-6af61c354a6e |
+| [Kubernetes for Developers](https://www.udemy.com/certificate/UC-ba538871-5816-4190-ac9c-b5c086404c01) | Udemy | jun. 2024 | UC-ba538871-5816-4190-ac9c-b5c086404c01 |
+| [MERN Stack: All You Need to Know with Practical Project](https://www.udemy.com/certificate/UC-e6abda01-72ec-4d8c-a559-ad1a14c0f0cf) | Udemy | jun. 2024 | UC-e6abda01-72ec-4d8c-a559-ad1a14c0f0cf |
+| [Maestría en Javascript: Desde principiante hasta experto](https://www.udemy.com/certificate/UC-7a3db9d4-03b2-4b98-bfc5-35af0efd45a4) | Udemy | jun. 2024 | UC-7a3db9d4-03b2-4b98-bfc5-35af0efd45a4 |
+| [React.JS Crash Course](https://www.udemy.com/certificate/UC-61ea8856-7e78-4a6b-a302-f3f89c64c69c) | Udemy | jun. 2024 | UC-61ea8856-7e78-4a6b-a302-f3f89c64c69c |
+| [TailwindCSS from A to Z](https://www.udemy.com/certificate/UC-3236be87-881d-45cd-8dbf-8d2303e61b9a) | Udemy | jun. 2024 | UC-3236be87-881d-45cd-8dbf-8d2303e61b9a |
+| [The complete HTML and CSS Master with Real Projects 2023](https://www.udemy.com/certificate/UC-1d1e7e7f-9f94-4a72-9b6f-06c7a453a6fd) | Udemy | jun. 2024 | UC-1d1e7e7f-9f94-4a72-9b6f-06c7a453a6fd |
+| [VEEAM Backup & Replication V12 course](https://www.udemy.com/certificate/UC-f150b50b-7c7a-48d3-b6e6-22a57271a445) | Udemy | mar. 2024 | UC-f150b50b-7c7a-48d3-b6e6-22a57271a445 |
+| [SUSE Foundations](https://www.suse.com/certificates/1939) | SUSE | jul. 2023 | 1939 |
+| [SUSE Partner Support Accreditation - SUSE Rancher](https://www.suse.com/certificates/) | SUSE | jul. 2023 | N/A |
+| [Veeam Certified Engineer (VMCE) V11](https://www.veeam.com/certification/vmce.html) | Veeam Software | jul. 2023 | N/A |
+| [Creative infographics in Power Point](https://www.udemy.com/certificate/UC-9ae14555-1b82-4150-a5f8-f4d2dafea532) | Udemy | abr. 2023 | UC-9ae14555-1b82-4150-a5f8-f4d2dafea532 |
+| [Curso de productividad para VSC / Sublime Text y VIm](https://www.udemy.com/certificate/UC-b35173c1-4ac8-4559-a3e6-bfee272aae57) | Udemy | abr. 2023 | UC-b35173c1-4ac8-4559-a3e6-bfee272aae57 |
+| [Veeam sales Profesional](https://www.veeam.com/certification/) | Veeam Software | feb. 2023 | N/A |
+| [Monitorizacion con Nagios Core](https://www.udemy.com/certificate/UC-e479a34a-2222-4775-9a3b-93499b9176d1) | Udemy | ene. 2023 | UC-e479a34a-2222-4775-9a3b-93499b9176d1 |
+| [Onboarding for veeam backup and replication](https://www.veeam.com/certification/) | Veeam Software | ene. 2023 | N/A |
+| [Onboarding for veeam backup for Microsoft 365](https://www.veeam.com/certification/) | Veeam Software | ene. 2023 | N/A |
+| [Curso de SEO y posicionamiento en google](https://www.udemy.com/certificate/UC-b18d69d0-9669-4647-b518-98d713fc4138) | Udemy | jul. 2022 | UC-b18d69d0-9669-4647-b518-98d713fc4138 |
+| [Node: De cero a experto](https://www.udemy.com/certificate/UC-9c71da2a-09e4-49e8-a6af-4517924b429c) | Udemy | jul. 2022 | UC-9c71da2a-09e4-49e8-a6af-4517924b429c |
+| [Spring Framework 5 & Spring Boot 2 desde 0 a experto 2022](https://www.udemy.com/certificate/) | Udemy | 2022 | N/A |
+
+## Cursos Adicionales
+
+- **Kubernetes for Developers** (Udemy) - jun. 2024
+- **MERN Stack: All You Need to Know with Practical Project** (Udemy) - jun. 2024
+- **Maestría en Javascript: Desde principiante hasta experto** (Udemy) - jun. 2024
+- **Veeam Technical Sales Professional** (Veeam Software) - jun. 2023
 
 
 <div align='center'>
