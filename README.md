@@ -231,7 +231,7 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
 
 <div align='center'>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
 
 </div>
 
