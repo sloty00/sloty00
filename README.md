@@ -5,8 +5,9 @@
 </p>
 
 <br>
-
-<picture><img align="center" src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="120px"></picture> 
+<div align='center'>
+<picture><img src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="120px"></picture> 
+</div>
 ## Acerca de mi
 
 
