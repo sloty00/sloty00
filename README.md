@@ -226,7 +226,7 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
 <div align='center'>
 
 ![](https://github-profile-trophy.vercel.app/?username=sloty00&rank=-?&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-<br/>
+<br/><br/>
 <b> Acerca del Ranking </b> <br/>
 <i> Estos van de: SSS SS S AAA AA A B C UNKNOWN SECRET. </i> <br/><br/>
 
