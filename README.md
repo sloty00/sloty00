@@ -6,7 +6,9 @@
 
 <br>
 
-<picture><img src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="50px"></picture> **Acerca de mi**
+<picture><img src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="100px"></picture> 
+
+## Acerca de mi
 
 
 <br>
