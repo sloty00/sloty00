@@ -254,7 +254,12 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
 <div align='center'>
 
 ## <b>Thanks for stopping by...✨</b>
+
+** Historico: **
+
 [![](https://visitcount.itsvg.in/api?id=Aneal07&icon=2&color=4)](https://visitcount.itsvg.in)
+
+** Anual (Agosto): **
 
 [![](https://visitcount.itsvg.in/api?id=sloty00&icon=2&color=1)](https://visitcount.itsvg.in)
 
