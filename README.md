@@ -225,7 +225,17 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
 
 <div align='center'>
 
-![](https://github-profile-trophy.vercel.app/?username=sloty00&rank=-C,-?&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sloty00&rank=-?&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+Acerca del Ranking
+Estos van de: SSS SS S AAA AA A B C UNKNOWN SECRET.
+
+Rank	           Description
+SSS, SS, S	   You are at a hard to reach rank. You can brag.
+AAA, AA, A	   You will reach this rank if you do your best. Let's aim here first.
+B, C	           You are currently making good progress. Let's aim a bit higher.
+UNKNOWN	           You have not taken action yet. Let's act first.
+SECRET	           This rank is very rare. The trophy will not be displayed until certain conditions are met.
 
 </div>
 
