@@ -230,13 +230,13 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
 <b> Acerca del Ranking </b> <br/>
 <i> Estos van de: SSS SS S AAA AA A B C UNKNOWN SECRET. </i> <br/>
 
-|  Rank |Description |
+|  Rank |Descripcion |
 |-------|------------|
-| SSS, SS, S	     |       You are at a hard to reach rank. You can brag. |
-| AAA, AA, A	     |       You will reach this rank if you do your best. Let's aim here first. |
-| B, C	             |       You are currently making good progress. Let's aim a bit higher. |
-| UNKNOWN	     |       You have not taken action yet. Let's act first. |
-| SECRET	     |       This rank is very rare. The trophy will not be displayed until certain conditions are met. |
+| SSS, SS, S	     |       Estás en un rango difícil de alcanzar. Puedes presumir. |
+| AAA, AA, A	     |       Alcanzarás este rango si haces tu mejor esfuerzo. |
+| B, C	             |       Estás haciendo un buen progreso. Vamos a apuntar un poco más alto. |
+| UNKNOWN	     |       Aún no has tomado medidas. Actuemos primero. |
+| SECRET	     |       Este rango es muy poco común. El trofeo no se mostrará hasta que se cumplan ciertas condiciones.. |
 
 </div>
 
