@@ -151,9 +151,8 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
   
     ![CLion](https://img.shields.io/badge/CLion-black?style=plastic&logo=clion&logoColor=#2C2255)
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
-    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important)
     ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
-    ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=plastic&logo=WebStorm&logoColor=white)
+    ![Visual Studio Professional](https://img.shields.io/badge/Visual%20Studio%20Professional-5C2D91?style=plastic&logo=visual-studio&logoColor=white)
     ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white)
   
 <br>
