@@ -218,7 +218,7 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramient
 
 <div align='center'>
 	
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloty00&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloty00&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-contributor-stats.vercel.app/api?username=sloty00&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 </div>
