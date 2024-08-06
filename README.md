@@ -11,7 +11,7 @@
 
 ## Acerca de mi:
 
-Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js y herramientas de documentación de APIs como Swagger, con experiencia en la creación de aplicaciones web escalables y de alto rendimiento. Mi enfoque en la arquitectura de software me ha permitido diseñar sistemas sólidos y fáciles de mantener. Tengo habilidades en la integración de bases de datos, la implementación de API RESTful y la optimización del rendimiento. Estoy comprometido con la mejora continua y la adopción de las mejores prácticas en desarrollo de software.
+Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con experiencia en la creación de aplicaciones web escalables y de alto rendimiento, así como en el desarrollo de soluciones robustas en C++. Mi experiencia incluye el uso de herramientas de documentación de APIs como Swagger, y he trabajado en la integración de bases de datos y la implementación de API RESTful. Además, tengo habilidades en la optimización del rendimiento y en la integración de diversos sistemas. Mi enfoque en la arquitectura de software me ha permitido diseñar sistemas sólidos y fáciles de mantener. Estoy comprometido con la mejora continua y la adopción de las mejores prácticas en desarrollo de software.
 
 ## Habilidades Clave: ✨
 ### Autenticación y Seguridad: :police_car:
