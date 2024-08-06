@@ -23,6 +23,7 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 - Modelado de datos y gestión de bases de datos utilizando Prisma ORM.
 - Diseño y desarrollo de APIs RESTful con Node.js y Express.
 - Gestión y monitoreo de aplicaciones en producción con PM2.
+- Integración con C++ para la optimización del rendimiento y la implementación de funcionalidades específicas de sistema.
 
 ### Desarrollo Frontend: :computer:
 - Creación de interfaces de usuario modernas y responsivas con React y Material-UI.
