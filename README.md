@@ -224,6 +224,13 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 </div>
 
 <div align='center'>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=sloty00&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sloty00&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloty00&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=sloty00&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://github-profile-trophy.vercel.app/?username=sloty00&rank=-?&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 <br/><br/>
