@@ -176,11 +176,6 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 </div>
 
 <div align='center'>
-	
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloty00&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=pie)
-![](https://github-contributor-stats.vercel.app/api?username=sloty00&limit=9&theme=transparent&combine_all_yearly_contributions=true)
-
-![Jose Vargas Oyarzun stats](https://github-readme-stats.vercel.app/api?username=sloty00&show_icons=true&theme=radical)
 
 </div>
 
