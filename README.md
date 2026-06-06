@@ -196,6 +196,8 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 | UNKNOWN	     |       Aún no has tomado medidas. Actuemos primero. |
 | SECRET	     |       Este rango es muy poco común. El trofeo no se mostrará hasta que se cumplan ciertas condiciones.. |
 
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sloty00&theme=default)
+
 </div>
 
 <div align='center'>
