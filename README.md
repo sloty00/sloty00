@@ -173,11 +173,6 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sloty00&theme=default)
 
 <br>
-	  
-![](https://github-readme-stats.vercel.app/api?username=sloty00&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sloty00&theme=transparent&hide_border=false)<br/>
-
-<br>
 
 ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sloty00&theme=default)
 
