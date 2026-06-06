@@ -169,6 +169,10 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 ![image](https://github.com/sloty00/sloty00/assets/22121541/7f60053a-5df8-4868-8c01-254f0013c0dd)
 
 <br>
+
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sloty00&theme=default)
+
+<br>
 	  
 ![](https://github-readme-stats.vercel.app/api?username=sloty00&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sloty00&theme=transparent&hide_border=false)<br/>
@@ -195,8 +199,6 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 | B, C	             |       Estás haciendo un buen progreso. Vamos a apuntar un poco más alto. |
 | UNKNOWN	     |       Aún no has tomado medidas. Actuemos primero. |
 | SECRET	     |       Este rango es muy poco común. El trofeo no se mostrará hasta que se cumplan ciertas condiciones.. |
-
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sloty00&theme=default)
 
 </div>
 
