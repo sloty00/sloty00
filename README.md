@@ -58,6 +58,8 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
     ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
     ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+    ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
     ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
@@ -139,12 +141,22 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
   
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+    ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+    ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)
     ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
     ![SVN](https://img.shields.io/badge/subversion-%23809CC9.svg?style=plastic&logo=subversion&logoColor=white)
     ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
     ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=plastic&logo=mercurial&logoColor=white)
 
 <br>
+
+- **Cloud System**:
+  
+    ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+
+  <br>
 
 - **Extras**:
 
