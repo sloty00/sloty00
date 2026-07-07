@@ -197,7 +197,7 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 <div align='center'>
 
 ## 🏆Trofeos Github
-![](https://github-trophies.vercel.app/?username=sloty00&theme=transparent&no-frame=false&no-bg=false&margin-w=4&rank=A,AA,AAA,S,SS,SSS)
+![](https://github-trophies.vercel.app/?username=sloty00&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
 <br/><br/>
 <b> Acerca del Ranking </b> <br/>
