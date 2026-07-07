@@ -190,7 +190,7 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 
 <br>
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/leaderboard_by_bytes.png)
 
 </div>
 
