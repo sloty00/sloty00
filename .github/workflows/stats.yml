@@ -16,7 +16,7 @@ jobs:
       - uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "leaderboard bar pie donut"
+          visualization_types: "leaderboard,bar,pie,donut"
           output_path: "language-stats"
           exclude_repos: "test-repo,old-project"
           include_forks: "true"
