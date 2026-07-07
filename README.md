@@ -182,8 +182,7 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 
 <br>
 
-![Profile_Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sloty00}&theme={github})
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={sloty00}&theme={github}
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={sloty00}
 
 <br>
 
