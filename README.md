@@ -188,6 +188,10 @@ Soy un desarrollador con 8 años de trayectoria en Java SE, Node.js, y C++, con 
 
 ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sloty00&theme=default)
 
+<br>
+
+![Language Stats](stats/leaderboard_by_lines.png)
+
 </div>
 
 <div align='center'>
