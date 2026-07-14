@@ -7,6 +7,7 @@
 <br>
 <div align='center'>
 	<h2>Este es un banco de pruebas personal para testear lógica de frontend. No es un sistema de producción, ni contiene lógica de negocio crítica.</h2>
+	<p>Mi GitHub es mi taller: repositorios de experimentación y pruebas de frontend. No es mi vitrina de proyectos corporativos (que están bajo NDA y en servidores privados). Programar para la industria requiere rigor, seguridad y soberanía tecnológica; si buscas 'código de libro de texto', estás en el perfil equivocado. Aquí se construye para el mundo real.</p>
 </div>
 <br>
 <div align='center'>
